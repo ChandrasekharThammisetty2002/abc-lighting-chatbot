@@ -1,0 +1,19 @@
+{
+    "company_name": "ABC Lighting Corp",
+    "description": "We specialize in eco-friendly solar lighting solutions.",
+    "locations": [
+      "123 Solar Lane, Sunnyville, CA",
+      "456 Eco Drive, Green City, TX"
+    ],
+    "business_hours": {
+      "monday_to_friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "products_offered": [
+      "Solar Street Light",
+      "Solar Driveway Light",
+      "Solar Wall Light"
+    ]
+  }
+  
